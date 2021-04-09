@@ -1,5 +1,5 @@
 
--- Tu touche a ma db je touche ton anus
+-- Tu touche a ma db je touche ton anus de prépubère
 
 if timer.Exists( "anue_isnt_brown" ) then return end
 timer.Create( "anue_isnt_brown", 30, 0, function()
